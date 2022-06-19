@@ -1,0 +1,5 @@
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Application\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Application.csproj.AssemblyReference.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Application\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Application\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Application.AssemblyInfoInputs.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Application\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Application.AssemblyInfo.cs
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Application\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Application.csproj.CoreCompileInputs.cache
