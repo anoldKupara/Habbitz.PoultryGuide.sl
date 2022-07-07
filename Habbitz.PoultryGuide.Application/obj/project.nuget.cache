@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "sh/1QHbVI1cDQs1JnuZYb56gnAGHu0akzTmkOYoDcXn99qHgN/azbF3UV6jA6y5w/aOq/YYSJT5LfvZbh0cGsg==",
+  "dgSpecHash": "0HD6l6WvhgdFF4X8upzK9AopBQXRSeauqAvp1TJDFvWnw9N8IhQtLjqwz2PrOCV8hNjTA2ptxlMNJhEn8jXRrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\akupa\\source\\repos\\Habbitz.PoultryGuide\\Habbitz.PoultryGuide.Application\\Habbitz.PoultryGuide.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akupa\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\akupa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\akupa\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\akupa\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\akupa\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\akupa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\akupa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\akupa\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",

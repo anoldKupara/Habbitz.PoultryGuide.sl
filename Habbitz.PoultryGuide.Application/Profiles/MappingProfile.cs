@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Habbitz.PoultryGuide.Application.DTOs.BirdCategory;
+using Habbitz.PoultryGuide.Application.DTOs.BirdCategories;
 using Habbitz.PoultryGuide.Application.DTOs.Budgets;
 using Habbitz.PoultryGuide.Application.DTOs.Currencies;
 using Habbitz.PoultryGuide.Application.DTOs.Expenses;
