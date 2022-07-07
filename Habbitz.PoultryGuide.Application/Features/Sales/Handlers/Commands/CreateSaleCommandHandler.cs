@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Habbitz.PoultryGuide.Application.DTOs.Sales.Validators;
+using Habbitz.PoultryGuide.Application.Exceptions;
 using Habbitz.PoultryGuide.Application.Features.Sales.Requests.Commands;
 using Habbitz.PoultryGuide.Application.Persistence.Contracts;
 using Habbitz.PoultryGuide.Domain.Entities;
@@ -23,9 +25,17 @@ namespace Habbitz.PoultryGuide.Application.Features.Sales.Handlers.Commands
         }
         public async Task<int> Handle(CreateSaleCommand request, CancellationToken cancellationToken)
         {
-            var sale = _mapper.Map<Sale>(request.SaleDto);
-            sale = await _saleRepository.Add(sale);
-            return sale.Id;
+            var validator = new CreateSaleDtoValidator();
+            var validationResult = await validator.ValidateAsync(request.SaleDto);
+
+            if (validationResult.IsValid == false)
+                throw new ValidationException(validationResult);
+            else
+            {
+                var sale = _mapper.Map<Sale>(request.SaleDto);
+                sale = await _saleRepository.Add(sale);
+                return sale.Id;
+            }
         }
     }
 }

@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
+using Habbitz.PoultryGuide.Application.Exceptions;
 using Habbitz.PoultryGuide.Application.Features.Sales.Requests.Commands;
 using Habbitz.PoultryGuide.Application.Persistence.Contracts;
+using Habbitz.PoultryGuide.Domain.Entities;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -23,8 +25,14 @@ namespace Habbitz.PoultryGuide.Application.Features.Sales.Handlers.Commands
         public async Task<Unit> Handle(DeleteSaleCommand request, CancellationToken cancellationToken)
         {
             var sale = await _saleRepository.Get(request.Id);
-            await _saleRepository.Delete(sale);
-            return Unit.Value;
+
+            if (sale == null)
+                throw new NotFoundException(nameof(Sale), request.Id);
+            else
+            {
+                await _saleRepository.Delete(sale);
+                return Unit.Value;
+            }
         }
     }
 }
