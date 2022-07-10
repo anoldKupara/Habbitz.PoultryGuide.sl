@@ -7,8 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D7B467DB-67F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{EED2CB5E-4ADA-4BCF-ACD1-BFE77B80B8AE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{E418BB23-6FC0-4590-873F-BF6C04EB23A7}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{5FD477BD-A9F3-45DE-8519-A22E89799796}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{5A397937-F0E5-4722-AC28-39939EED40E1}"
@@ -19,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Habbitz.PoultryGuide.Domain
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Habbitz.PoultryGuide.Application", "Habbitz.PoultryGuide.Application\Habbitz.PoultryGuide.Application.csproj", "{AA7DB6E9-590A-41CB-91CF-B9490EC98E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habbitz.PoultryGuide.Infrastructure", "Habbitz.PoultryGuide.Infrastructure\Habbitz.PoultryGuide.Infrastructure.csproj", "{86330277-BBE0-4449-960F-A15840E7EA1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Habbitz.PoultryGuide.Infrastructure", "Habbitz.PoultryGuide.Infrastructure\Habbitz.PoultryGuide.Infrastructure.csproj", "{86330277-BBE0-4449-960F-A15840E7EA1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habbitz.PoultryGuide.Persistence", "Habbitz.PoultryGuide.Persistence\Habbitz.PoultryGuide.Persistence.csproj", "{F3757426-3F09-4A6F-8D32-D9F53CC06755}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Habbitz.PoultryGuide.Persistence", "Habbitz.PoultryGuide.Persistence\Habbitz.PoultryGuide.Persistence.csproj", "{F3757426-3F09-4A6F-8D32-D9F53CC06755}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,7 +48,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{E418BB23-6FC0-4590-873F-BF6C04EB23A7} = {D7B467DB-67F7-46AC-B04B-45467D1E97A3}
 		{5FD477BD-A9F3-45DE-8519-A22E89799796} = {D7B467DB-67F7-46AC-B04B-45467D1E97A3}
 		{5A397937-F0E5-4722-AC28-39939EED40E1} = {D7B467DB-67F7-46AC-B04B-45467D1E97A3}
 		{5B644C66-9F4B-4B9A-A4B9-209382BDFE1A} = {D7B467DB-67F7-46AC-B04B-45467D1E97A3}

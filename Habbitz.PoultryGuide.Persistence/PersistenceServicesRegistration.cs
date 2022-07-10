@@ -29,7 +29,6 @@ namespace Habbitz.PoultryGuide.Persistence
             services.AddScoped<ISaleRepository, SaleRepository>();
             services.AddScoped<IVaccineRepository, VaccineRepository>();
 
-
             return services;
         }
     }
