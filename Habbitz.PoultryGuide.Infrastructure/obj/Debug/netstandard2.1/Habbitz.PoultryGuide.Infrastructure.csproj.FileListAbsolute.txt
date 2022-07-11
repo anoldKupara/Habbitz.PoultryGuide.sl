@@ -1,0 +1,10 @@
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.deps.json
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.dll
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.pdb
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.AssemblyInfo.cs
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.dll
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Infrastructure\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Infrastructure.pdb

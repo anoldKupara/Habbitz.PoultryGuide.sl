@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Habbitz.PoultryGuide.Infras
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Habbitz.PoultryGuide.Persistence", "Habbitz.PoultryGuide.Persistence\Habbitz.PoultryGuide.Persistence.csproj", "{F3757426-3F09-4A6F-8D32-D9F53CC06755}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{90820038-5353-43F2-A9EB-DDAA4A9DC5BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Habbitz.PoultryGuide.Api", "Habbitz.PoultryGuide.Api\Habbitz.PoultryGuide.Api.csproj", "{3858BA92-F919-4377-AEFB-7E2B61C632DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{F3757426-3F09-4A6F-8D32-D9F53CC06755}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3757426-3F09-4A6F-8D32-D9F53CC06755}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3757426-3F09-4A6F-8D32-D9F53CC06755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3858BA92-F919-4377-AEFB-7E2B61C632DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3858BA92-F919-4377-AEFB-7E2B61C632DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3858BA92-F919-4377-AEFB-7E2B61C632DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3858BA92-F919-4377-AEFB-7E2B61C632DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +63,8 @@ Global
 		{AA7DB6E9-590A-41CB-91CF-B9490EC98E41} = {5B644C66-9F4B-4B9A-A4B9-209382BDFE1A}
 		{86330277-BBE0-4449-960F-A15840E7EA1B} = {5FD477BD-A9F3-45DE-8519-A22E89799796}
 		{F3757426-3F09-4A6F-8D32-D9F53CC06755} = {5FD477BD-A9F3-45DE-8519-A22E89799796}
+		{90820038-5353-43F2-A9EB-DDAA4A9DC5BE} = {D7B467DB-67F7-46AC-B04B-45467D1E97A3}
+		{3858BA92-F919-4377-AEFB-7E2B61C632DC} = {90820038-5353-43F2-A9EB-DDAA4A9DC5BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AA1985BB-8B9D-4C1F-BBA8-1D6ACBDBC4F6}
