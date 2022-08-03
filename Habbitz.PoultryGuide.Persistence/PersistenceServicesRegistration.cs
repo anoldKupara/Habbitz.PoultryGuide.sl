@@ -15,16 +15,16 @@ namespace Habbitz.PoultryGuide.Persistence
         {
             services.AddDbContext<HabbitzDbContext>(options =>
             options.UseSqlServer(
-                configuration.GetConnectionString("PoultryGuideConnectionString")));
+            configuration.GetConnectionString("PoultryGuideConnectionString")));
 
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
             services.AddScoped<IBirdCategoryRepository, BirdCategoryRepository>();
-            services.AddScoped<IBudgetRepository, BudgetRepository > ();
+            services.AddScoped<IBudgetRepository, BudgetRepository>();
             services.AddScoped<ICurrencyRepository, CurrencyRepository>();
             services.AddScoped<IExpenseRepository, ExpenseRepository>();
             services.AddScoped<IFeedRepository, FeedRepository>();
-            services.AddScoped<IInventoryRepository, IInventoryRepository>();
+            services.AddScoped<IInventoryRepository, InventoryRepository>();
             services.AddScoped<IPaymentMethodRepository, PaymentMethodRepository>();
             services.AddScoped<ISaleRepository, SaleRepository>();
             services.AddScoped<IVaccineRepository, VaccineRepository>();

@@ -1717,6 +1717,7 @@
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Habbitz.PoultryGuide.Application": "1.0.0",
+          "MediatR": "10.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "6.0.0"
         },
