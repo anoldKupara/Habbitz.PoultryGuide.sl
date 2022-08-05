@@ -2,9 +2,7 @@
 using Habbitz.PoultryGuide.Application.DTOs.Sales.Validators;
 using Habbitz.PoultryGuide.Application.Exceptions;
 using Habbitz.PoultryGuide.Application.Features.Sales.Requests.Commands;
-using Habbitz.PoultryGuide.Application.Models;
 using Habbitz.PoultryGuide.Application.Persistence.Contracts;
-using Habbitz.PoultryGuide.Application.Persistence.Infrastructure;
 using Habbitz.PoultryGuide.Application.Responses;
 using Habbitz.PoultryGuide.Domain.Entities;
 using MediatR;
@@ -21,13 +19,11 @@ namespace Habbitz.PoultryGuide.Application.Features.Sales.Handlers.Commands
     {
         private readonly ISaleRepository _saleRepository;
         private readonly IMapper _mapper;
-        private readonly IEmailSender _emailSender;
 
-        public CreateSaleCommandHandler(ISaleRepository saleRepository, IMapper mapper, IEmailSender emailSender)
+        public CreateSaleCommandHandler(ISaleRepository saleRepository, IMapper mapper)
         {
             _saleRepository = saleRepository;
             _mapper = mapper;
-            _emailSender = emailSender;
         }
         public async Task<BaseCommandResponse> Handle(CreateSaleCommand request, CancellationToken cancellationToken)
         {

@@ -1,0 +1,15 @@
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.deps.json
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.dll
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.pdb
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Application.dll
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Domain.dll
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Application.pdb
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\bin\Debug\netstandard2.1\Habbitz.PoultryGuide.Domain.pdb
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.csproj.AssemblyReference.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.AssemblyInfoInputs.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.AssemblyInfo.cs
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.csproj.CopyComplete
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.dll
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.Persistence\obj\Debug\netstandard2.1\Habbitz.PoultryGuide.Persistence.pdb

@@ -1,4 +1,9 @@
-﻿using System;
+﻿using Habbitz.PoultryGuide.Application.Models;
+using Habbitz.PoultryGuide.Application.Persistence.Infrastructure;
+using Microsoft.Extensions.Options;
+using SendGrid;
+using SendGrid.Helpers.Mail;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
