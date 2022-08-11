@@ -1,0 +1,9 @@
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.MVC\obj\Release\net5.0\Habbitz.PoultryGuide.MVC.csproj.AssemblyReference.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.MVC\obj\Release\net5.0\Habbitz.PoultryGuide.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.MVC\obj\Release\net5.0\Habbitz.PoultryGuide.MVC.AssemblyInfoInputs.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.MVC\obj\Release\net5.0\Habbitz.PoultryGuide.MVC.AssemblyInfo.cs
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.MVC\obj\Release\net5.0\Habbitz.PoultryGuide.MVC.csproj.CoreCompileInputs.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.MVC\obj\Release\net5.0\Habbitz.PoultryGuide.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.MVC\obj\Release\net5.0\Habbitz.PoultryGuide.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.MVC\obj\Release\net5.0\Habbitz.PoultryGuide.MVC.RazorAssemblyInfo.cache
+C:\Users\akupa\source\repos\Habbitz.PoultryGuide\Habbitz.PoultryGuide.MVC\obj\Release\net5.0\Habbitz.PoultryGuide.MVC.RazorAssemblyInfo.cs
